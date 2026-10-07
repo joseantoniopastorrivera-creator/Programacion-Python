@@ -1,0 +1,8 @@
+---INFORME FINAL DE VENTAS---
+Producto más vendido: Hades - Ventas: 20
+INGRESOS POR PRODUCTO:
+Celeste : 13 unidades | Ingresos: 259.87 euros.
+Portal 2 : 10 unidades | Ingresos: 99.90 euros.
+Hades : 20 unidades | Ingresos: 490.00 euros.
+Stardew Valley : 15 unidades | Ingresos: 224.85 euros.
+Ingresos totales: 1074.62 euros.
