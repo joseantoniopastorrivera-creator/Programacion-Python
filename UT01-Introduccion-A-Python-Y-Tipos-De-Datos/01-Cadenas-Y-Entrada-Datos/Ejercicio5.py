@@ -1,0 +1,5 @@
+frase = input("Escriba una frase: ")
+letra = input("Escriba una letra a reemplazar de su frase: ")
+nueva_letra = input("Escriba la nueva letra: ")
+print("La cantidad de veces que se repite la letra", letra,"es: ", frase.count(letra))
+print("Su nueva frase es: ", frase.replace(letra, nueva_letra))
